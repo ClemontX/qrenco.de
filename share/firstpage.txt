@@ -3,7 +3,7 @@ Append the string that you want to encode to qrenco.de/ in the URL
 or pipe the string into curl -F
 
                                        $ printf "two\nlines" \
-$ curl qr.cxde.link/this               | curl -F-=\<- qr.cxde.link
+$ curl qrenco.de/this                  | curl -F-=\<- qrenco.de
 
 █████████████████████████████          █████████████████████████████
 █████████████████████████████          █████████████████████████████
