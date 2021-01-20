@@ -14,7 +14,7 @@ INTERNAL_TOPICS = [':firstpage']
 
 def github_button(button):
     repository = {
-        "qrenco.de" :   'chubin/qrenco.de',
+        "qrenco.de" :   'ClemontX/qrenco.de',
         "libqrencode":  'fukuchi/libqrencode',
     }
 
